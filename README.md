@@ -11,7 +11,8 @@ Es una herramienta diseñada para organizar automáticamente fotos y videos por 
 🚀 Portable: Ejecutable listo para usar en Windows.
 
 🚀 Cómo usar
-Descarga el archivo desde la sección de Releases.
+Descarga el archivo desde la sección de Releases. 
+https://github.com/omarjosueg-prog/PhotoOrganizerVideoPro/releases/latest
 
 Ejecútalo y selecciona tus carpetas.
 
