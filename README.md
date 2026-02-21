@@ -16,3 +16,4 @@ Descarga el archivo desde la sección de Releases.
 Ejecútalo y selecciona tus carpetas.
 
 Icono diseñado por: <a href="https://www.flaticon.es/iconos-gratis/archivos-y-carpetas" title="archivos y carpetas iconos">Archivos y carpetas iconos creados por IconBaandar - Flaticon</a>
+Desarrollador: Omar Josue Guerrero Rojas
