@@ -1,5 +1,5 @@
 📸 PhotoOrganizerVideoPro
-PhotoOrganizerVideoPro es una herramienta diseñada para organizar automáticamente fotos y videos por fecha.
+Es una herramienta diseñada para organizar automáticamente fotos y videos por fecha.
 
 ✨ Funciones Principales
 🗂️ Organización Automática: Clasifica archivos en carpetas por Año y Mes.
